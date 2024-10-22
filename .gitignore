@@ -1,0 +1,26 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+
+# Visual Studio Code
+.vscode/
+
+# Mac OS generated files
+.DS_Store
+
+# Optional NPM cache directory
+.npm/
+
+# Dist and build directories
+dist/
+build/
+
+# Coverage directory used by testing tools
+coverage/
